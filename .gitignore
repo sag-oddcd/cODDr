@@ -1,0 +1,9 @@
+# Ignore backup files
+# Allow .bak files
+*.bak
+
+# Ignore cache files
+.cache/
+
+# Ignore the Git directory itself
+.git/
